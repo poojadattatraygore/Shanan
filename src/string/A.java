@@ -4,7 +4,7 @@ public class A {
 public static void main(String[] args) {
 	String a="pooja";
 	String s="gore";
-	
+	String d="shital";
 	
 	System.out.println(a.length());
 	System.out.println(s.length());

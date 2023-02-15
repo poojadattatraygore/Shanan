@@ -10,5 +10,6 @@ public void car() {
 public void home() {
 	System.out.println("HOME");
 	System.out.println("pooja");
+	System.out.println("hi");
 }
 }
