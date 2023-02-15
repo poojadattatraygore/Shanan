@@ -8,7 +8,7 @@ public static void main(String[] args) {
 		a++;
 	}
 	while(a<=10);
-	
+	System.out.println("hi am pooja from github");
 
 }
 
